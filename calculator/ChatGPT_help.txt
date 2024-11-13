@@ -1,0 +1,8 @@
+2024-11-12
+    - Start a small JavaScript project.
+    - Asked ChatGPT to create a calculator layout using HTML and CSS.
+    - Copied all codes from ChatGPT and organized buttons.
+    - Added +/- button and % button.
+    - Added a style for 0 button to have double size.
+    - link: https://chatgpt.com/share/6734285a-0db8-8013-bb76-8ff29b03053c
+    
