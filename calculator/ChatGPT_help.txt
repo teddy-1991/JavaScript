@@ -1,4 +1,5 @@
 2024-11-12
+
     - Start a small JavaScript project.
     - Asked ChatGPT to create a calculator layout using HTML and CSS.
     - Copied all codes from ChatGPT and organized buttons.
