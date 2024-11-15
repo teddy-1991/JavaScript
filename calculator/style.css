@@ -39,7 +39,7 @@ body {
     gap: 10px;
 }
 
-.button {
+.button, .number-button {
     width: 100%;
     padding: 20px;
     font-size: 20px;
