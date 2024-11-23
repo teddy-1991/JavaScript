@@ -1,5 +1,4 @@
 2024-11-12
-
     - Start a small JavaScript project.
     - Asked ChatGPT to create a calculator layout using HTML and CSS.
     - Copied all codes from ChatGPT and organized buttons.
@@ -7,3 +6,14 @@
     - Added a style for 0 button to have double size.
     - link: https://chatgpt.com/share/6734285a-0db8-8013-bb76-8ff29b03053c
     
+2024-11-22
+    - link: https://chatgpt.com/share/67412fb5-73a0-8013-a6a2-72b59fd56efa
+    - added an add feature.
+    - It will keep displaying a firstNumber until clicking a secondNumber.
+    - When users click a plus button it will show the result(firstNumber + secondNumber) to continue to add numbers.
+    - Edited clear features. 
+    - added an equal button feature.
+    - I tried to use English when I used chatGPT in order to practice English,
+    but it didn't give me what I wanted. So, I used Korean to get my goal.
+    - I'm not sure that using chatGPT is a good way to learn and practice JavaScript. 
+    - However, I thought it's better than nothing.
